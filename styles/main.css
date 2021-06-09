@@ -63,3 +63,12 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+.float-left {
+  display: inline-block;
+  float: left;
+}
+
+small {
+  opacity: 0.5;
+}
